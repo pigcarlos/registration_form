@@ -68,8 +68,8 @@ age_entry.place(x= 22, y=220)
 email_entry.place(x= 22, y=280)
 
 #Button.
-sumbit_button = Button(window, text= "Sumbit", command= send_data, width="30", height="2", bg="#30A282")
-sumbit_button.place(x=22, y= 340)
+submit_button = Button(window, text= "Submit", command= send_data, width="30", height="2", bg="#30A282")
+submit_button.place(x=22, y= 340)
 
 
 
